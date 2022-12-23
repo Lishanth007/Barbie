@@ -1,0 +1,19 @@
+#the four basic tool for A_S 
+1. manifest
+  - activities
+  - permission
+2. java
+  - java (all logig=c) 
+  - kotlin
+3. resourse
+  -layout (ui useing XML)
+  -value (string styles)
+  -drawable (images,assete)
+  -menu
+4. gradle
+  -android library
+  -github library
+  
+  
+  
+  
