@@ -1,4 +1,5 @@
-#the four basic tool for A_S 
+#day1 
+the four basic tool for A_S 
 1. manifest
   - activities
   - permission
@@ -15,5 +16,12 @@
   -github library
   
   
-  
-  
+#day2 
+Downloading vs code,flutter,git bash.
+
+Video link to setup, config, installing flutter with android studio. 
+   https://youtu.be/03zuAxPjVDI
+   
+To test that the flutter support python language with the help of flet.
+   https://flet.dev/
+
